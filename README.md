@@ -4,9 +4,9 @@ From the Udemy course **NestJS Zero to Hero**
 
 ## Installation
 
-1. Install dependencies with `yarn` or `npm install`
+1. Install dependencies with `yarn`
 
 ## Running the app
-1. Start the server in port 3000 by default `yarn start:dev` or `npm run start`
+1. Start the server in port 3000 by default `yarn start:dev`
 
 ## Test
